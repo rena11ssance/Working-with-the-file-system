@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -34,7 +34,7 @@ namespace Task_3
                 Console.WriteLine("Количество строк: {0}.", lineCount);
             }
 
-            Console.ReadKey();
+        Console.ReadKey();
         }
     }
 }
