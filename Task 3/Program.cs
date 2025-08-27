@@ -33,6 +33,8 @@ namespace Task_3
                 Console.WriteLine("Количество слов: {0}.", wordCount);
                 Console.WriteLine("Количество строк: {0}.", lineCount);
             }
+
+            Console.ReadKey();
         }
     }
 }
